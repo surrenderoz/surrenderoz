@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Blockchain,Vue JS, Python
 - 🌱 I’m currently learning ...Solidity, SmartContracts, Defi
 - 💞️ I’m looking to collaborate on ...Smart Contracts
-- 📫 How to reach me ...annamark158@gmail.com
+- 📫 How to reach me ...surrenderoz.we@gmail.com
 
 <!---
 surrenderoz/surrenderoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
