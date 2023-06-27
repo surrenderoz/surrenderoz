@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surrenderoz
-- 👀 I’m interested in ... Blockchain,Vue JS, Python
-- 🌱 I’m currently learning ...Solidity, SmartContracts, Defi
-- 💞️ I’m looking to collaborate on ...Smart Contracts
+- 👀 I’m interested in ... Blockchain, RUST
+- 🌱 I’m currently learning ..RUST 
+- 💞️ I’m looking to collaborate on ...Smart Contracts, RUST, WEBSERVICES
 - 📫 How to reach me ...surrenderoz.we@gmail.com
 
 <!---
