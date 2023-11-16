@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @surrenderoz
-- 👀 I’m interested in ... Blockchain, RUST
-- 🌱 I’m currently learning ..RUST 
-- 💞️ I’m looking to collaborate on ...Smart Contracts, RUST, WEBSERVICES
-- 📫 How to reach me ...surrenderoz.we@gmail.com
+🦀 Rustacean Blockchain Engineer | Smart Contracts Maestro | Building decentralized wonders | Blockchain enthusiast  🌐
 
 <!---
 surrenderoz/surrenderoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
